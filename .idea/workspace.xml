@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b54d86f-3c21-4ff3-9b44-9a2e6f963149" name="Changes" comment="">
+    <list default="true" id="2b54d86f-3c21-4ff3-9b44-9a2e6f963149" name="Changes" comment="Trying to fix the username to my actual name.">
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +30,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nickisosa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nickisosa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nickisosa/100_Days_of_Code-The_Complete_Python.git",
-    "accountId": "13bdf89f-f2dc-4a61-a718-a4693c3c5c0a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nickisosa/100_Days_of_Code-The_Complete_Python.git&quot;,
+    &quot;accountId&quot;: &quot;13bdf89f-f2dc-4a61-a718-a4693c3c5c0a&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Day 1/task/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 1/task/task.py" root0="FORCE_HIGHLIGHTING" />
@@ -177,6 +181,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "work__master",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -199,9 +204,22 @@
       <workItem from="1782117161418" duration="29000" />
       <workItem from="1782117197095" duration="118000" />
     </task>
+    <task id="LOCAL-00001" summary="Trying to fix the username to my actual name.">
+      <option name="closed" value="true" />
+      <created>1782381024516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782381024516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trying to fix the username to my actual name." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix the username to my actual name." />
   </component>
 </project>

@@ -1,2 +1,11 @@
+import random
+
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
-print(friends)
+
+#Option 1 Using random.choice
+print(random.choice(friends))
+
+#Option 2
+random_index = random.randint(0, 4)
+print(friends[random_index])
+
