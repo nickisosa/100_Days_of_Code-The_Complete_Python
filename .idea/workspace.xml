@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b54d86f-3c21-4ff3-9b44-9a2e6f963149" name="Changes" comment="Updated some code in &quot;Banker Roulette&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +155,9 @@
     <setting file="file://$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
@@ -174,22 +170,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.LearningObjectsStorageType": "SQLite",
-    "Edu.Yaml.Migrate": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.task.executor": "Run",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "work__master",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;work__master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -224,11 +220,30 @@
       <option name="project" value="LOCAL" />
       <updated>1782550478163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated some code in &quot;Banker Roulette&quot;">
+      <option name="closed" value="true" />
+      <created>1782817968403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782817968403</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Trying to fix the username to my actual name." />
